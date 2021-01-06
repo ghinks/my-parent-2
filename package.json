@@ -14,6 +14,6 @@
   },
   "devDependencies": {
     "tap": "^14.11.0",
-    "@gvhinks/wiby": "0.0.2"
+    "@gvhinks/wiby": "0.0.3"
   }
 }
