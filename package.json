@@ -1,0 +1,18 @@
+{
+  "name": "@gvhinks/my-parent-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gvhinks/my-dependency-id-a": "^1.0.0"
+  },
+  "devDependencies": {
+    "tap": "^14.11.0"
+  }
+}
