@@ -83,7 +83,7 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.WIBY_TOKEN }}
-          NPM_AUTH_TOKEN: ${{ secerts.NPM_TOKEN }}
+          NPM_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Handle errors
         uses: octokit/request-action@v2.x
