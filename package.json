@@ -6,6 +6,10 @@
   "scripts": {
     "test": "tap test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghinks/my-parent-2.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
