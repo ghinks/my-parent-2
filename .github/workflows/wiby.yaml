@@ -79,7 +79,7 @@ jobs:
             npm run action-wiby-test
           else
             npm install
-            npx @gvhinks@wiby test
+            npx @gvhinks/wiby test
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.WIBY_TOKEN }}
