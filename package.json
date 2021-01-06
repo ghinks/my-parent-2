@@ -13,6 +13,7 @@
     "@gvhinks/my-dependency-id-a": "^1.0.0"
   },
   "devDependencies": {
-    "tap": "^14.11.0"
+    "tap": "^14.11.0",
+    "wiby": "0.0.2"
   }
 }
