@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tap test.js"
+    "test": "tap test.js",
+    "action-wiby-test": "npm install --production && ./bin/wiby test",
+    "action-wiby-result": "npm install --production && ./bin/wiby result"
   },
   "repository": {
     "type": "git",
