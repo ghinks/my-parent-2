@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@gvhinks/my-dependency-id-a": "^1.0.0"
+    "@gvhinks/my-dependency-id-a": "ghinks/my-dependency-id-a#677bf9423eaee0c225a8ebeb58960347a0ef1810"
   },
   "devDependencies": {
     "tap": "^14.11.0",
