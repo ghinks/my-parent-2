@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@gvhinks/my-dependency-id-a": "^1.0.0"
+    "@gvhinks/my-dependency-id-a": "ghinks/my-dependency-id-a#dfe5490791bf53c5e87e80f1739ca579dd082d73"
   },
   "devDependencies": {
     "tap": "^14.11.0",
