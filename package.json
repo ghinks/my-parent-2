@@ -19,6 +19,6 @@
   "devDependencies": {
     "tap": "^14.11.0",
     "@gvhinks/wiby": "0.0.4",
-    "@gvhinks/my-dependency-id-b": "^1.0.0"
+    "@gvhinks/my-dependency-id-b": "ghinks/my-dependency-id-b#f66eb955d5c85de638d4b226885bfe98a2ba8956"
   }
 }
